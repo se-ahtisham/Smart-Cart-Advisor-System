@@ -6,7 +6,7 @@ void intro()
 {
 	cout << endl;
 	cout << "\t\t\t ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: " << endl;
-	cout << "\t\t\t :::::::::::  Welcome To E-commerce Recommendation syetm  :::::::::: " << endl;
+	cout << "\t\t\t :::::::::::  Welcome To E-commerce Recommendation system  :::::::::: " << endl;
 	cout << "\t\t\t ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: " << endl;
 	cout << endl;
 }
